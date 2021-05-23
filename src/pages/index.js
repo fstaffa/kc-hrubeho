@@ -6,7 +6,7 @@ import * as styles from "./index.module.css"
 
 export default function Home() {
   return (
-    <div>
+    <div className={styles.pageContainer}>
       <Header />
       <div className={styles.imageContainer}>
         <div className={styles.imageOverlayContainer}>
@@ -25,7 +25,8 @@ export default function Home() {
           />
         </div>
       </div>
-      asdsdffddsf fsdffds
+      <div>Kontakty</div>
+      <div>Mapa</div>
     </div>
   )
 }
