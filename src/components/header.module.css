@@ -1,0 +1,36 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: rgba(45, 46, 86, 0.9);
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+
+.header ul {
+  max-width: 1200px;
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header a {
+  text-decoration: none;
+  font-size: large;
+  line-height: 24px;
+  color: rgb(216, 208, 193);
+}
+
+.header li {
+  margin-right: 1em;
+}
+
+.home {
+  margin-right: auto;
+}
+
+.header svg {
+  width: 27px;
+  fill: var(--icon-color);
+}
