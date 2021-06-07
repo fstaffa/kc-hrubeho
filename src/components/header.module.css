@@ -38,3 +38,9 @@
   width: 27px;
   fill: var(--icon-color);
 }
+
+.header a,
+.header a:active,
+.header a:visited {
+  border-bottom: 0px;
+}

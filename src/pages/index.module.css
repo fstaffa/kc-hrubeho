@@ -39,3 +39,16 @@
   min-height: 350px;
   z-index: -1;
 }
+
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.contacts svg {
+  fill: currentColor;
+  width: 27px;
+  vertical-align: bottom;
+}

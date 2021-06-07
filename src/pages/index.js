@@ -2,6 +2,8 @@ import React from "react"
 import Header from "../components/header"
 import { StaticImage } from "gatsby-plugin-image"
 import KcImage from "../assets/kc-big.svg"
+import Phone from "../components/phone"
+import Email from "../components/email"
 import * as styles from "./index.module.css"
 
 export default function Home() {
@@ -25,8 +27,22 @@ export default function Home() {
           />
         </div>
       </div>
-      <div>Kontakty</div>
-      <div>Mapa</div>
+      <div className={styles.contacts}>
+        <div style={{ justifyContent: "center", alignItems: "center" }}>
+          <h2>Kristýna Janyšková</h2>
+          <p style={{ maxWidth: "25em" }}>
+            Hlavní šéfka komunitního centra. Odpoví vám na všechno, co vás
+            zajímá!
+          </p>
+          <div>
+            <Phone number="+420723569587" />
+          </div>
+          <div>
+            <Email emailAddress="kchrubeho@gmail.com" />
+          </div>
+        </div>
+      </div>
+      <div>pasdsdfj aslkdfj as;dlfkjad;fasdf asdfasdf</div>
     </div>
   )
 }
