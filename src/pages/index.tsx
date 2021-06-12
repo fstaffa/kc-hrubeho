@@ -34,15 +34,15 @@ export default function Home() {
             Hlavní šéfka komunitního centra. Odpoví vám na všechno, co vás
             zajímá!
           </p>
-          <div>
-            <Phone number="+420723569587" />
-          </div>
-          <div>
-            <Email emailAddress="kchrubeho@gmail.com" />
+          <div className={styles.contactDetails}>
+            <ul>
+              <Phone number="+420723569587" />
+              <Email emailAddress="kchrubeho@gmail.com" />
+            </ul>
           </div>
         </div>
       </div>
-      <div>pasdsdfj aslkdfj as;dlfkjad;fasdf asdfasdf</div>
+      <div>pasdsdfj aslkdas;dlfkjad;fasdf asdfasdf</div>
     </div>
   )
 }

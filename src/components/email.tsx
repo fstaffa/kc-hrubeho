@@ -1,7 +1,11 @@
 import EmailIcon from "../assets/email.svg"
 import React from "react"
 
-export default function Email(props) {
+interface Props {
+  emailAddress: string
+}
+
+export default function Email(props: Props) {
   return (
     <div>
       <EmailIcon style={{ marginTop: "1em" }} />{" "}

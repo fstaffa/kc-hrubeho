@@ -10,6 +10,7 @@
 
 .imageContainer {
   position: relative;
+  text-align: center;
   width: 100vw;
 }
 
@@ -51,4 +52,8 @@
   fill: currentColor;
   width: 27px;
   vertical-align: bottom;
+}
+
+.contactDetails {
+  text-align: left;
 }
