@@ -48,7 +48,7 @@ collections:
         }
       - {
           label: "Casy",
-          name: monday,
+          name: times,
           widget: list,
           field:
             {
@@ -73,14 +73,14 @@ collections:
                   {
                     name: start,
                     widget: datetime,
-                    field:
-                      { name: time, date_format: false, time_format: "HH:mm" },
+                    date_format: false,
+                    time_format: "HH:mm",
                   },
                   {
                     name: end,
                     widget: datetime,
-                    field:
-                      { name: time, date_format: false, time_format: "HH:mm" },
+                    date_format: false,
+                    time_format: "HH:mm",
                   },
                 ],
             },
