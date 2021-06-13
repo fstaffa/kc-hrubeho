@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "category"
+    label: "Kategorie"
+    folder: "content/category"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Nazev", name: "title", widget: "string" }
+      - { label: "Kratky popisek", name: "short", widget: "string" }
+      - { label: "Popisek", name: "body", widget: "markdown" }
+      - { label: "Obrazek", name: "image", widget: "image" }
