@@ -5,9 +5,6 @@ image: cup-of-coffee-1280.jpg
 type: category
 id: coworking
 ---
-
-<!--StartFragment-->
-
 **COWORKING s Hlídárnou v Komunitní centru Hrubého**
 
 Maminky, tatínkové (nejen) pro Vás nabízíme COWORKING s hlídárnou v prostorách Komunitního centra Hrubého, Praha 8.
@@ -37,5 +34,3 @@ V současné době nabízíme coworking **každé sudé pondělí** v měsíci v
 Objednávání využití COWORKINGU na emailu terezaK@agenturateja.cz či tel. čísle 777 815 896 (i formou sms). Rezervace (alespoň ráno před příchodem v rámci ověření si volného místa u stolu) a platba předem (na daný měsíc dopředu) NUTNÁ.
 
 Budeme se na Vás těšit! 🙂
-
-<!--EndFragment-->
