@@ -7,8 +7,8 @@ category: pro-dospele
 times:
   - time:
       day: thursday
-      start: 18:00
-      end: 19:00
+      start: 2021-06-13T16:00:12.154Z
+      end: 2021-06-13T17:00:18.748Z
 ---
 
 Jóga léčí, pomáhá překonávat bolest na těle i na duši.
