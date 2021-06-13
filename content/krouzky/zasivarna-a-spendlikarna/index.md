@@ -2,7 +2,7 @@
 title: Zašívárna a Špendlíkárna
 excerpt: Sdílený kreativní prostor pro ženy.
 image: zasivarna.png
-type: krouzek
+type: krouzky
 category: pro-dospele
 times:
   - time:
@@ -10,6 +10,7 @@ times:
       start: 20:00
       end: 23:59
 ---
+
 Milé ženy,
 
 také byste ráda něco ušily, upletly, uháčkovaly…? Doma ale po vás stále něco chtějí děti, manžel, pes, kočka… Tak právě pro vás je tu
@@ -22,7 +23,7 @@ Přineste si vlastní stroj, látky a veškerý materiál, který budete potřeb
 Nejedná se o kurzy, ale o sdílený kreativní prostor, v jehož rámci si budeme moci v klidu tvořit a navíc se navzájem inspirovat.\
 Kdy? Každé pondělí 20:00 – ? Zdarma. Místo si můžete rezervovat na našem [facebooku](https://www.facebook.com/events/233708380858456/). 🙂
 
- 
+
 
 Potřebujete s šitím dopomoc? Pro Vás je tu Špendlíkárna!
 

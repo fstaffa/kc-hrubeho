@@ -2,7 +2,7 @@
 title: Jóga pro onkologické pacienty
 excerpt: Jóga pro onkologicky nemocné pacienty.
 image: letacek-onko.jpg
-type: krouzek
+type: krouzky
 category: pro-dospele
 times:
   - time:

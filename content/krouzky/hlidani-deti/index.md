@@ -2,7 +2,7 @@
 title: Hlídání dětí
 excerpt: Hlídání dětí, místo pro setkávání a relaxaci.
 image: dite-1.jpg
-type: krouzek
+type: krouzky
 category: pro-deti
 times:
   - time:
@@ -22,6 +22,7 @@ times:
       start: 08:00
       end: 14:00
 ---
+
 ## Kdy?
 
 Každé **úterý, středa, čtvrtek a pátek od 8:00 do 14:00 hodin**.
@@ -42,7 +43,7 @@ Hlídání dětí, místo pro setkávání a relaxaci.
 
 Těšit se na Vás bude Tereza.
 
- 
+
 
 Ohledně hlídání kontaktuje Bc. Terezu Kohoutovou, DiS., Tel. 777 815 896, [terezaK@agenturateja.cz](mailto:terezaK@agenturateja.cz)
 

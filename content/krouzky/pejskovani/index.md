@@ -4,7 +4,7 @@ excerpt: Pejskování je naučně zábavný program, během kterého se děti na
   se chovat k pejskům, osvojí si zásady bezpečného kontaktu se psem, pohrají si
   s ním a především si užijí spoustu zábavy.
 image: pejskovani.jpg
-type: krouzek
+type: krouzky
 category: pro-deti
 times:
   - time:
@@ -12,6 +12,7 @@ times:
       start: 17:00
       end: 18:00
 ---
+
 Zveme všechny děti na zajímavý program s pejskem Tobíkem vedený naší dobrovolnicí Terkou.
 
 Pejskování je naučně zábavný program, během kterého se děti naučí, jak se chovat k pejskům, osvojí si zásady bezpečného kontaktu se psem, pohrají si s ním a především si užijí spoustu zábavy.
@@ -28,7 +29,7 @@ Termíny podzim 2019:
 
 Pejskování probíhá během odpoledního [klubu pro děti.](https://kc-hrubeho.cz/krouzky/klub-pro-deti)
 
- 
+
 
 ## Kde?
 

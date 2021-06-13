@@ -2,7 +2,7 @@
 title: Kurz práce s tabletem pro seniory
 excerpt: Kurz práce s tabletem pro seniory.
 image: digiklub-pro-seniory.jpg
-type: krouzek
+type: krouzky
 category: pro-dospele
 times:
   - time:
@@ -10,6 +10,7 @@ times:
       start: 13:00
       end: 14:00
 ---
+
 Nekamarádíte se s tabletem? Přijďte k nám a budete to umět levou zadní!\
 KDY: každé pondělí 13:00-14:00 (začínáme 30.9.)\
 KDE: [Komunitní centrum Hrubého](https://www.facebook.com/KomunitniCentrumHrubeho/?__xts__%5B0%5D=68.ARCrEV82i-KlRyPFpXCnhgNXrfg3uwL0o0xOeLwyrMc1IovOtLd6eVqRuXMdMDsT8Yrlg42nxbsn3gdfZKp1JWaotkjS_OEhf74-DFJWIK0qlfmUciVYy2hr3X_6HBrZusllKpw7ka5S4L-i5b7xB5c49LDSNDlkzzX9-QeP3nUw_5kQp_IsU2QwCrDbgzNivljLgA3tH16FWNdRTzNo9JH2woUJDXBAz8krp2PSU-eOJyrjsqXzQnbN6zKBwWV7cuHJlCnbl3opvcsDZDwd1NLZd-bUzz2nqQfx6lj-gfQT6eaGt4nB4b4WpspsE6LQb_PV4rE&__xts__%5B1%5D=68.ARAfsDWS18kH70Y2i9qwRFejMWGwf1XX7VydqZxkBXVVO4Dji6uhmnSPQHzdlNqwsKUmCo_oqOxXt3ggl854Oeh1scVZeRPWHcYtMalq-ewXLYkMTxnXVrbxL8eON315bazJM2z2uoS1zVMKANJQxtCh1bNYGPcb0HMxlidKvCWarJvB1osx4XAL0FIRu12fxOI8oERFed5DMvOdhQVj-kL7W_HNo5P4PNS2UI2la8F3BmxBdhEHiaBQ6cBTVKEesV8ZVgP-giWkmINxhhNVJzjyYzfkOkMMDUTeRX16LEyZhCv-VWuF5ib9IISQfW6URoPlGTYsIfk5RyQQWd6aAbJjzkhJM-pXXFyV1dIVRcSQs9mYkHFuhnMDCHXnkvkPyEhpEw&__tn__=K%2AF&eid=ARAWALjyrL0VuuEXfuD3hb4ldPZbDvaI6Li61Y0q7i0xPuKx5Crk5lHU5F8Q1egWxhmj8c7AU3uM3rW5)\

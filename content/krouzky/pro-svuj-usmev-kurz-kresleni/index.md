@@ -2,7 +2,7 @@
 title: Pro svůj úsměv - kurz kreslení
 excerpt: Kurz, ve kterém se naučí kreslit opravdu každý.
 image: kurz-kresleni.jpg
-type: krouzek
+type: krouzky
 category: pro-dospele
 times:
   - time:
@@ -14,6 +14,7 @@ times:
       start: 09:00
       end: 17:00
 ---
+
 ## Kreslení podobně jako psaní je dovednost, které je možno se naučit. Naučit se kreslit je především naučit se správně vidět.
 
 ![](https://kc-hrubeho.cz/app/uploads/2018/01/kresleni-300x184.jpg)
@@ -35,30 +36,30 @@ Na pravou tvořivou hemisféru se na kurzu naladíme pomocí jednoduchých vět�
 
 ### 1. den kurzu
 
-* nakreslení portrétu s dosavadními dovednostmi
-* praktická cvičení zaměřená na probuzení pravé mozkové hemisféry např. vnímání prostoru a tvarů, obrázky tvořené s použitím prostorové části mozku, zlepšení odhadů vzdáleností, tvarů a křivek
-* profil dle předlohy
+- nakreslení portrétu s dosavadními dovednostmi
+- praktická cvičení zaměřená na probuzení pravé mozkové hemisféry např. vnímání prostoru a tvarů, obrázky tvořené s použitím prostorové části mozku, zlepšení odhadů vzdáleností, tvarů a křivek
+- profil dle předlohy
 
 ### 2. den kurzu
 
-* praktická cvičení
-* aktivní kreslení portrétu dle předlohy. Možnost nakreslení svých blízkých, známých nebo dostatečný výběr z našich předloh.
+- praktická cvičení
+- aktivní kreslení portrétu dle předlohy. Možnost nakreslení svých blízkých, známých nebo dostatečný výběr z našich předloh.
 
 ## **Cíle kurzu**
 
-* stmelení kolektivu a zlepšení vzájemné komunikace
-* relaxace, odpočinek
-* odpoutání se od stresu a každodenních povinností
-* zvýšení sebevědomí jednotlivce
-* získání nečekané dovednosti vede ke zlepšení přístupu vzniklých situací jak v pracovním tak v soukromém životě
-* uděláte něco sama / sám pro sebe
-* příprava na talentové zkoušky
-* a to hlavní: nakreslený portrét
+- stmelení kolektivu a zlepšení vzájemné komunikace
+- relaxace, odpočinek
+- odpoutání se od stresu a každodenních povinností
+- zvýšení sebevědomí jednotlivce
+- získání nečekané dovednosti vede ke zlepšení přístupu vzniklých situací jak v pracovním tak v soukromém životě
+- uděláte něco sama / sám pro sebe
+- příprava na talentové zkoušky
+- a to hlavní: nakreslený portrét
 
 ## Doba
 
 Kurz je dvoudenní po 6-7 hodinách dle potřeby jednotlivce.
 
- 
+
 
 Více informací na www.prosvujusmev.cz.

@@ -23,9 +23,9 @@ collections:
       - { label: "Obrazek", name: "image", widget: "image" }
       - { name: "type", widget: "hidden", default: "category" }
       - { label: "Id (nemenit)", name: "id", widget: "string" }
-  - name: "krouzek"
-    label: "Krouzek"
-    folder: "content/krouzek"
+  - name: "krouzky"
+    label: "krouzky"
+    folder: "content/krouzky"
     create: true
     slug: "index"
     media_folder: ""
@@ -38,7 +38,7 @@ collections:
       - { label: "Kratky popisek", name: "excerpt", widget: "string" }
       - { label: "Popisek", name: "body", widget: "markdown" }
       - { label: "Obrazek", name: "image", widget: "image" }
-      - { name: "type", widget: "hidden", default: "krouzek" }
+      - { name: "type", widget: "hidden", default: "krouzky" }
       - {
           name: "category",
           widget: "relation",

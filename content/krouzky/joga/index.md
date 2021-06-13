@@ -2,7 +2,7 @@
 title: Jóga
 excerpt: BeYs. YOGA v Komunitním Centru Hrubého.
 image: letacek-joga.jpg
-type: krouzek
+type: krouzky
 category: pro-dospele
 times:
   - time:
@@ -18,6 +18,7 @@ times:
       start: 19:00
       end: 20:00
 ---
+
 Pravidelně pořádáme pravidelné lekce tak trochu jiné jógy. V čem je jiná?
 
 > Ucelený systém pohybů, ve kterém se snoubí krása pohybu lidského těla, protažení a posílení problematických partií, je provázen hudbou, **zábavou**, **smíchem** a naprostou relaxací.
@@ -30,8 +31,8 @@ Přidejte se na pravidelné lekce netradiční jógy přímo v srdci Ládví!
 
 Boříme stará přesvědčení a budujeme silné tělo i mysl!
 
-* Budeme se protahovat, posilovat a relaxovat
-* Budeme si povídat, smát se a odpočívat
+- Budeme se protahovat, posilovat a relaxovat
+- Budeme si povídat, smát se a odpočívat
 
 ## Kde?
 
