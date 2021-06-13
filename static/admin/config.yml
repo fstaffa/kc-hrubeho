@@ -24,8 +24,8 @@ collections:
       - { name: "type", widget: "hidden", default: "category" }
       - { label: "Id (nemenit)", name: "id", widget: "string" }
   - name: "krouzek"
-    label: "Kategorie"
-    folder: "content/category"
+    label: "Krouzek"
+    folder: "content/krouzek"
     create: true
     slug: "index"
     media_folder: ""
@@ -45,4 +45,10 @@ collections:
           collection: "category",
           search_fields: [title],
           value_field: id,
+        }
+      - {
+          label: "Pondelni casy",
+          name: monday,
+          widget: list,
+          field: { name: time, date_format: false, time_format: "HH:mm" },
         }
