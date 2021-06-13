@@ -20,3 +20,48 @@
   width: 20vw;
   min-width: 5em;
 }
+
+.aboutContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content {
+  max-width: 30em;
+  width: 88.889%;
+  font-size: large;
+}
+
+.big {
+  font-size: xx-large;
+  margin-top: 1em;
+}
+
+.aboutTrigger {
+  margin-top: 3em;
+  font-size: large;
+  font-weight: 700;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.categoryContainer {
+  font-weight: 700;
+}
+
+.categoryList {
+}
+
+.categoryImage {
+  width: 80px;
+  height: 80px;
+}
+
+.categoryTitle {
+  font-size: x-large;
+}

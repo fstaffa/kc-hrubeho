@@ -38,6 +38,7 @@
 
 .contentContainer {
   padding-top: 30px;
+  padding-bottom: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
