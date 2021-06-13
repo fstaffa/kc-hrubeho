@@ -14,23 +14,6 @@
   width: 100vw;
 }
 
-.imageOverlayContainer {
-  position: absolute;
-  width: 100vw;
-  top: 50px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: var(--icon-color);
-  font-size: large;
-}
-
-.imageOverlay {
-  width: 20vw;
-  min-width: 10em;
-}
-
 .backgroundImageContainer {
   background-color: rgba(54, 54, 68, 0.6);
 }

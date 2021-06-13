@@ -21,3 +21,4 @@ collections:
       - { label: "Kratky popisek", name: "short", widget: "string" }
       - { label: "Popisek", name: "body", widget: "markdown" }
       - { label: "Obrazek", name: "image", widget: "image" }
+      - { name: "type", widget: "hidden", default: "category" }

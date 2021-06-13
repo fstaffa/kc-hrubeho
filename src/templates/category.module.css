@@ -1,0 +1,45 @@
+.pageContainer {
+  margin: auto;
+  max-width: 1200px;
+  display: grid;
+}
+
+.imageOverlayContainer {
+  position: absolute;
+  width: 100vw;
+  top: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--icon-color);
+  font-size: x-large;
+}
+
+.imageOverlay {
+  width: 10vw;
+  min-width: 5em;
+}
+
+.title {
+  font-size: xxx-large;
+  font-weight: 700;
+}
+
+.short {
+  font-size: x-large;
+}
+
+.content {
+  max-width: 30em;
+  width: 88.889%;
+  font-size: large;
+}
+
+.contentContainer {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
