@@ -47,8 +47,41 @@ collections:
           value_field: id,
         }
       - {
-          label: "Pondelni casy",
+          label: "Casy",
           name: monday,
           widget: list,
-          field: { name: time, date_format: false, time_format: "HH:mm" },
+          field:
+            {
+              name: time,
+              widget: "object",
+              fields:
+                [
+                  {
+                    name: day,
+                    widget: select,
+                    options:
+                      [
+                        { label: Pondeli, value: monday },
+                        { label: Utery, value: tuesday },
+                        { label: Streda, value: wednesday },
+                        { label: Ctvrtek, value: thursday },
+                        { label: Patek, value: friday },
+                        { label: Sobota, value: saturday },
+                        { label: Nedele, value: sunday },
+                      ],
+                  },
+                  {
+                    name: start,
+                    widget: datetime,
+                    field:
+                      { name: time, date_format: false, time_format: "HH:mm" },
+                  },
+                  {
+                    name: end,
+                    widget: datetime,
+                    field:
+                      { name: time, date_format: false, time_format: "HH:mm" },
+                  },
+                ],
+            },
         }
