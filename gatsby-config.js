@@ -8,15 +8,22 @@ module.exports = {
   /* Your site config here */
   plugins: [
     {
-    resolve: "gatsby-plugin-react-svg",
-    options: {
-      rule: {
-        include: /assets/ // See below to configure properly
-      }
-    }
-  },
-'gatsby-plugin-image',
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-react-svg",
+      options: {
+        rule: {
+          include: /assets/, // See below to configure properly
+        },
+      },
+    },
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
   ],
 }

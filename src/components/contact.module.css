@@ -1,0 +1,19 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: var(--alternate-color);
+}
+
+.contacts svg {
+  fill: currentColor;
+  width: 27px;
+  vertical-align: bottom;
+}
+
+.contactDetails {
+  text-align: left;
+}

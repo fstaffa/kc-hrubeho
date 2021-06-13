@@ -1,0 +1,28 @@
+.container {
+  font-size: x-large;
+  padding-top: 2em;
+}
+
+.container svg {
+  fill: currentColor;
+  width: 27px;
+  vertical-align: bottom;
+}
+
+.text {
+  max-width: 26em;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.subsection {
+  padding-bottom: 1em;
+}
