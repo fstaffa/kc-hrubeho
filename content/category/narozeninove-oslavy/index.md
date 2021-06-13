@@ -1,9 +1,10 @@
 ---
-title: Narozeninove oslavy
+title: Narozeninové oslavy
 short: Uspořádejte narozeninovou oslavu u nás!
 image: muffin.jpg
 type: category
 ---
+
 Chcete Vašemu dítku dopřát krásnou oslavu narozenin?\
 Uspořádejte ji u nás.
 

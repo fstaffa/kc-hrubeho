@@ -1,10 +1,11 @@
 ---
-title: Prazske zidle & stolky
+title: Pražské židle & stolky
 short: "Posezení pro občany. Pod širý sluncem. Pro piknik, posezení s přáteli či
   dětmi, pro pejskaře. "
 image: zidle.png
 type: category
 ---
+
 Mnoho veřejných prostranství je dnes zbytečně nevyužito, projekt Pražské židle a stolky v těchto lokalitách nabízí občanům Prahy možnost posedět na místech, kde to dříve nebylo možné.\
 Projekt spočívá v instalaci židlí a stolů do veřejného prostoru města a jeho záměrem je **oživení veřejného prostoru** a podpora komunitního života v ulicích Prahy.
 
@@ -46,7 +47,7 @@ Projekt probíhá díky Institutu plánování a rozvoje hl. m. Prahy, který mo
 
 V případě otázek či podnětů se obracejte na správce mobiliáře, kterým je v této lokalitě vedoucí KC Hrubého Kristýna Janyšková, tel.: 723569587, email.: kchrubeho@gmail.com.
 
- 
+
 
 **Zveme vás na slavnostní otevření, které se uskuteční v pondělí 21.5. v 17:00 hodin na travnaté ploše před Komunitním centrem Hrubého.**
 

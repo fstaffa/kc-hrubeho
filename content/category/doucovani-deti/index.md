@@ -1,12 +1,11 @@
 ---
-title: Doucovani deti
+title: Doučování dětí
 short: Doučování matematiky a českého jazyka pro děti.
 image: doucovani-hodiny.jpg
 type: category
 ---
-## Doučování dětí
 
-Doučování **matematiky a českého jazyka** v příjemném prostředí kanceláře Komunitního centra. 
+Doučování **matematiky a českého jazyka** v příjemném prostředí kanceláře Komunitního centra.
 
 Je určeno pro děti **základní a střední školy**, včetně **dětí se specifickými poruchami učení**.
 

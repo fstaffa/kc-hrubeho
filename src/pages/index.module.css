@@ -52,9 +52,19 @@
 
 .categoryContainer {
   font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .categoryList {
+  width: 88.889%;
+  max-width: 67em;
+  width: 88.889%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .categoryImage {
@@ -64,4 +74,19 @@
 
 .categoryTitle {
   font-size: x-large;
+}
+
+.categoryItem {
+  width: 10em;
+  margin: 3em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+}
+
+.image {
+  border-radius: 50%;
 }

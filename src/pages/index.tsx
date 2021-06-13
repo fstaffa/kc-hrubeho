@@ -76,16 +76,21 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
           <div className={styles.big}>Co děláme</div>
           <div className={styles.categoryList}>
             {data.categories.nodes.map(x => {
+              const image = getImage(x.frontmatter.image)
               return (
-                <Link to={x.fields.slug}>
-                  <div className={styles.categoryItem} key={x.fields.slug}>
+                <div className={styles.categoryItem} key={x.fields.slug}>
+                  <Link to={x.fields.slug}>
+                    <GatsbyImage
+                      image={image}
+                      alt=""
+                      className={styles.image}
+                    />
                     <div className={styles.categoryTitle}>
                       {x.frontmatter.title}
                     </div>
-                    <div></div>
-                  </div>{" "}
-                  Přečíst více
-                </Link>
+                    <div>Přečíst více</div>
+                  </Link>
+                </div>
               )
             })}
           </div>
@@ -114,9 +119,7 @@ export const query = graphql`
           title
           image {
             childImageSharp {
-              fixed(width: 80) {
-                ...GatsbyImageSharpFixed
-              }
+              gatsbyImageData(layout: FIXED, width: 80, height: 80)
             }
           }
         }
