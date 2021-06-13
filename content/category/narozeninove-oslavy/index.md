@@ -3,6 +3,7 @@ title: Narozeninové oslavy
 short: Uspořádejte narozeninovou oslavu u nás!
 image: muffin.jpg
 type: category
+id: narozeninova-oslava
 ---
 
 Chcete Vašemu dítku dopřát krásnou oslavu narozenin?\

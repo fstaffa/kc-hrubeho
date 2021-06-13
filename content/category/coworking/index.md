@@ -3,7 +3,9 @@ title: Coworking
 short: Coworking s hlídárnou v prostorách Komunitního centra Hrubého
 image: cup-of-coffee-1280.jpg
 type: category
+id: coworking
 ---
+
 <!--StartFragment-->
 
 **COWORKING s Hlídárnou v Komunitní centru Hrubého**

@@ -22,3 +22,27 @@ collections:
       - { label: "Popisek", name: "body", widget: "markdown" }
       - { label: "Obrazek", name: "image", widget: "image" }
       - { name: "type", widget: "hidden", default: "category" }
+      - { label: "Id (nemenit)", name: "id", widget: "string" }
+  - name: "krouzek"
+    label: "Kategorie"
+    folder: "content/category"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Nazev", name: "title", widget: "string" }
+      - { label: "Kratky popisek", name: "excerpt", widget: "string" }
+      - { label: "Popisek", name: "body", widget: "markdown" }
+      - { label: "Obrazek", name: "image", widget: "image" }
+      - { name: "type", widget: "hidden", default: "krouzek" }
+      - {
+          name: "category",
+          widget: "relation",
+          collection: "category",
+          searchFields: [title],
+          value_field: id,
+        }

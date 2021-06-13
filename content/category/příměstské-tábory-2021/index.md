@@ -3,6 +3,7 @@ title: Příměstské tábory 2021
 short: Příměstské tábory pro děti
 image: primestske-tabory-2021.jpg
 type: category
+id: primestske-tabory
 ---
 
 **Milí rodiče, také na léto 2021 plánujeme v KC Hrubého příměstské tábory pro děti!**
@@ -10,8 +11,6 @@ type: category
 Na co se můžete těšit?
 
 Letošní léto bude opět plné zábavy, zážitků, prožitků, her, úsměvů a kamarádství tentokrát na témata blízká nám i dětem. Každý si u nás vybere a může, ale nemusí, se proměnit v daný týden v někoho jiného. Každý si odnese skvělé zážitky a dárečky. U nás se baví každý. Zvládneme i případná zdravotní znevýhodnění.
-
-
 
 Termíny:
 

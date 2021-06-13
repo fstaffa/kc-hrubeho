@@ -5,6 +5,7 @@ short: Zajímavé dokumentární snímky na plátně s kvalitním zvukem. Po fil
   Promítání je zdarma.
 image: camera.jpg
 type: category
+id: promitani
 ---
 
 ## Promítání

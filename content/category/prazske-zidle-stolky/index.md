@@ -4,6 +4,7 @@ short: "Posezení pro občany. Pod širý sluncem. Pro piknik, posezení s přá
   dětmi, pro pejskaře. "
 image: zidle.png
 type: category
+id: prazske-zidle-a-stolky
 ---
 
 Mnoho veřejných prostranství je dnes zbytečně nevyužito, projekt Pražské židle a stolky v těchto lokalitách nabízí občanům Prahy možnost posedět na místech, kde to dříve nebylo možné.\
@@ -46,8 +47,6 @@ Stolky a židle budou v testovací fázi k dispozici po-čt do 18:00, za čas 
 Projekt probíhá díky Institutu plánování a rozvoje hl. m. Prahy, který mobiliář zdarma zapůjčil. Umístění v této lokalitě je iniciativou spolku Krásné Kobylisy, z.s. a Komunitního centra Hrubého.
 
 V případě otázek či podnětů se obracejte na správce mobiliáře, kterým je v této lokalitě vedoucí KC Hrubého Kristýna Janyšková, tel.: 723569587, email.: kchrubeho@gmail.com.
-
-
 
 **Zveme vás na slavnostní otevření, které se uskuteční v pondělí 21.5. v 17:00 hodin na travnaté ploše před Komunitním centrem Hrubého.**
 

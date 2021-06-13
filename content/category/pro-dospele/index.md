@@ -3,6 +3,7 @@ title: Pro dospělé
 short: Cvičení i promítání. V KC Hrubého si na své přijdou i dospělí!
 image: joga.jpg
 type: category
+id: pro-dospele
 ---
 
 ## Pro dospělé

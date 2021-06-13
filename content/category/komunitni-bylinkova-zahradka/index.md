@@ -3,6 +3,7 @@ title: Komunitní bylinková zahrádka
 short: Bylinková zahrada pro obyvatele ze sousedství.
 image: bouda.jpg
 type: category
+id: komunitni-bylynkova-zahradka
 ---
 
 Již třetí sezónu si u nás můžete zdarma natrhat bylinky do vaší kuchyně – nabízíme mátu, meduňku, tymián, levanduli, pažitku, estragon a mnoho dalšího. Přes léto také míváme skvělé jahody a maliny.
