@@ -57,6 +57,7 @@ const Category: React.FC<PageProps<Data>> = ({ data }) => {
         />
       </div>
       <Contact />
+      <LocationInfo />
     </div>
   )
 }
