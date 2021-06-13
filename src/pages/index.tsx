@@ -79,11 +79,6 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
               return (
                 <Link to={x.fields.slug}>
                   <div className={styles.categoryItem} key={x.fields.slug}>
-                    <GatsbyImage
-                      image={x.frontmatter.image.childImageSharp.fixed}
-                      alt="fdsaf"
-                      className={styles.categoryImage}
-                    />
                     <div className={styles.categoryTitle}>
                       {x.frontmatter.title}
                     </div>
