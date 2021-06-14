@@ -18,4 +18,4 @@ Repertoár se skládá zejména z populárních písní. Kromě vlastních konce
 
 V případě zájmu o navázání jakékoli formy spolupráce nás neváhejte kontaktovat. Rádi se pobavíme  o vzájemných představách a možnostech…
 
-![](joyful.webp)
+![joyful](joyful.webp)

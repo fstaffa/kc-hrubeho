@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 3em;
+}
+
+.container2 {
+}
+
+.day {
+  display: flex;
+  align-items: center;
+  background-color: var(--alternate-color);
+  padding: 1em;
+}
+
+.dayName {
+  width: 4em;
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.eventContainer {
+  width: 50%;
+  max-width: 20em;
+}

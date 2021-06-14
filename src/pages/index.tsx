@@ -1,11 +1,6 @@
 import React from "react"
 import Header from "../components/header"
-import {
-  GatsbyImage,
-  IGatsbyImageData,
-  getImage,
-  ImageDataLike,
-} from "gatsby-plugin-image"
+import { IGatsbyImageData, getImage, ImageDataLike } from "gatsby-plugin-image"
 import Contact from "../components/contact"
 import * as styles from "./index.module.css"
 import HeroImage from "../components/hero-image"
@@ -13,6 +8,8 @@ import { graphql, PageProps, Link } from "gatsby"
 import LocationInfo from "../components/location-info"
 import KcImage from "../assets/kc-big.svg"
 import Collapsible from "react-collapsible"
+import LinkView from "../components/link-view"
+import WeeklySchedule from "../components/weekly-schedule"
 
 interface Data {
   file: {
@@ -26,9 +23,9 @@ interface Data {
         title: string
         image: ImageDataLike
       }
-    }
-    fields: {
-      slug: string
+      fields: {
+        slug: string
+      }
     }[]
   }
   about: {
@@ -54,6 +51,12 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
       <div>+</div>
     </div>
   )
+
+  const categoryItems = data.categories.nodes.map(x => ({
+    title: x.frontmatter.title,
+    image: getImage(x.frontmatter.image),
+    slug: x.fields.slug,
+  }))
   return (
     <div className={styles.pageContainer}>
       <Header />
@@ -75,28 +78,17 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
 
         <div className={styles.categoryContainer}>
           <div className={styles.big}>Co děláme</div>
-          <div className={styles.categoryList}>
-            {data.categories.nodes.map(x => {
-              const image = getImage(x.frontmatter.image)
-              return (
-                <div className={styles.categoryItem} key={x.fields.slug}>
-                  <Link to={x.fields.slug}>
-                    <GatsbyImage
-                      image={image}
-                      alt=""
-                      className={styles.image}
-                    />
-                    <div className={styles.categoryTitle}>
-                      {x.frontmatter.title}
-                    </div>
-                    <div>Přečíst více</div>
-                  </Link>
-                </div>
-              )
-            })}
-          </div>
+          <LinkView items={categoryItems} />
         </div>
       </div>
+
+      <WeeklySchedule
+        items={data.krouzky.nodes.map(x => ({
+          slug: x.fields.slug,
+          title: x.frontmatter.title,
+          times: x.frontmatter.times ?? [],
+        }))}
+      />
       <Contact />
       <LocationInfo />
     </div>
@@ -132,6 +124,33 @@ export const query = graphql`
     about: file(name: { eq: "about" }) {
       childMarkdownRemark {
         html
+      }
+    }
+    krouzky: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "krouzky" } } }
+    ) {
+      nodes {
+        frontmatter {
+          title
+          times {
+            time {
+              day
+              start
+              end
+            }
+          }
+          category
+          excerpt
+          short
+          image {
+            childImageSharp {
+              gatsbyImageData(layout: FIXED, width: 80)
+            }
+          }
+        }
+        fields {
+          slug
+        }
       }
     }
   }

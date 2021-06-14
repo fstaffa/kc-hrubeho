@@ -5,7 +5,7 @@ import * as styles from "./contact.module.css"
 
 export default function Contact() {
   return (
-    <div className={styles.contacts}>
+    <div id="team" className={styles.contacts}>
       <div>
         <h2>Kristýna Janyšková</h2>
         <p style={{ maxWidth: "25em" }}>

@@ -26,7 +26,7 @@ export default function LocationInfo(props: Props) {
     })
   )
   return (
-    <div className={styles.container}>
+    <div id="map" className={styles.container}>
       <div>
         <div className={styles.description}>
           <div className={styles.subsection}>
