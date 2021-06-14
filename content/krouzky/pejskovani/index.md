@@ -9,8 +9,8 @@ category: pro-deti
 times:
   - time:
       day: wednesday
-      start: 17:00
-      end: 18:00
+      start: "17:00"
+      end: "18:00"
 ---
 
 Zveme všechny děti na zajímavý program s pejskem Tobíkem vedený naší dobrovolnicí Terkou.
@@ -28,8 +28,6 @@ Termíny podzim 2019:
 11.12. 17:00-18:00
 
 Pejskování probíhá během odpoledního [klubu pro děti.](https://kc-hrubeho.cz/krouzky/klub-pro-deti)
-
-
 
 ## Kde?
 

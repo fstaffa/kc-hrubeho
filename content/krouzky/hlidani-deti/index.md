@@ -7,20 +7,20 @@ category: pro-deti
 times:
   - time:
       day: tuesday
-      start: 08:00
-      end: 14:00
+      start: "08:00"
+      end: "14:00"
   - time:
       day: wednesday
-      start: 08:00
-      end: 14:00
+      start: "08:00"
+      end: "14:00"
   - time:
       day: thursday
-      start: 08:00
-      end: 14:00
+      start: "08:00"
+      end: "14:00"
   - time:
       day: friday
-      start: 08:00
-      end: 14:00
+      start: "08:00"
+      end: "14:00"
 ---
 
 ## Kdy?
@@ -42,8 +42,6 @@ Hlídání dětí, místo pro setkávání a relaxaci.
 ## S kým?
 
 Těšit se na Vás bude Tereza.
-
-
 
 Ohledně hlídání kontaktuje Bc. Terezu Kohoutovou, DiS., Tel. 777 815 896, [terezaK@agenturateja.cz](mailto:terezaK@agenturateja.cz)
 

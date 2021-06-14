@@ -7,12 +7,12 @@ category: pro-dospele
 times:
   - time:
       day: saturday
-      start: 09:00
-      end: 17:00
+      start: "09:00"
+      end: "17:00"
   - time:
       day: sunday
-      start: 09:00
-      end: 17:00
+      start: "09:00"
+      end: "17:00"
 ---
 
 ## Kreslení podobně jako psaní je dovednost, které je možno se naučit. Naučit se kreslit je především naučit se správně vidět.
@@ -59,7 +59,5 @@ Na pravou tvořivou hemisféru se na kurzu naladíme pomocí jednoduchých vět�
 ## Doba
 
 Kurz je dvoudenní po 6-7 hodinách dle potřeby jednotlivce.
-
-
 
 Více informací na www.prosvujusmev.cz.

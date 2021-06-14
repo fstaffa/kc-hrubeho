@@ -7,8 +7,8 @@ category: pro-dospele
 times:
   - time:
       day: tuesday
-      start: 15:30
-      end: 16:30
+      start: "15:30"
+      end: "16:30"
 ---
 
 Maminky, hledáte pro vaše ratolesti jógu? 👯Tak čtěte dál...

@@ -7,8 +7,8 @@ category: pro-dospele
 times:
   - time:
       day: monday
-      start: 13:00
-      end: 14:00
+      start: "13:00"
+      end: "14:00"
 ---
 
 Nekamarádíte se s tabletem? Přijďte k nám a budete to umět levou zadní!\

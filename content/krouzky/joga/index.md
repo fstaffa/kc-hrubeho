@@ -7,16 +7,16 @@ category: pro-dospele
 times:
   - time:
       day: monday
-      start: 18:30
-      end: 19:30
+      start: "18:30"
+      end: "19:30"
   - time:
       day: wednesday
-      start: 18:30
-      end: 19:30
+      start: "18:30"
+      end: "19:30"
   - time:
       day: thursday
-      start: 19:00
-      end: 20:00
+      start: "19:00"
+      end: "20:00"
 ---
 
 Pravidelně pořádáme pravidelné lekce tak trochu jiné jógy. V čem je jiná?

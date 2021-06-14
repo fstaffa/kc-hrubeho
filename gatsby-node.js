@@ -19,7 +19,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-  const result = await graphql(`
+  const categories = await graphql(`
     query allCategory {
       allMarkdownRemark(filter: { frontmatter: { type: { eq: "category" } } }) {
         nodes {
@@ -31,10 +31,31 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `)
-  result.data.allMarkdownRemark.nodes.forEach(node => {
+  categories.data.allMarkdownRemark.nodes.forEach(node => {
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/Category.tsx`),
+      context: {
+        id: node.id,
+      },
+    })
+  })
+  const krouzky = await graphql(`
+    query allCategory {
+      allMarkdownRemark(filter: { frontmatter: { type: { eq: "krouzky" } } }) {
+        nodes {
+          id
+          fields {
+            slug
+          }
+        }
+      }
+    }
+  `)
+  krouzky.data.allMarkdownRemark.nodes.forEach(node => {
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/Krouzky.tsx`),
       context: {
         id: node.id,
       },

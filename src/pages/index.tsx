@@ -1,6 +1,11 @@
 import React from "react"
 import Header from "../components/header"
-import { GatsbyImage, IGatsbyImageData, getImage } from "gatsby-plugin-image"
+import {
+  GatsbyImage,
+  IGatsbyImageData,
+  getImage,
+  ImageDataLike,
+} from "gatsby-plugin-image"
 import Contact from "../components/contact"
 import * as styles from "./index.module.css"
 import HeroImage from "../components/hero-image"
@@ -19,15 +24,11 @@ interface Data {
     nodes: {
       frontmatter: {
         title: string
-        image: {
-          childImageSharp: {
-            fixed: any
-          }
-        }
+        image: ImageDataLike
       }
-      fields: {
-        slug: string
-      }
+    }
+    fields: {
+      slug: string
     }[]
   }
   about: {

@@ -8,16 +8,16 @@ category: pro-deti
 times:
   - time:
       day: monday
-      start: 14:30
-      end: 18:00
+      start: "14:30"
+      end: "18:00"
   - time:
       day: wednesday
-      start: 14:30
-      end: 18:00
+      start: "14:30"
+      end: "18:00"
   - time:
       day: thursday
-      start: 14:30
-      end: 18:00
+      start: "14:30"
+      end: "18:00"
 ---
 
 <!--StartFragment-->

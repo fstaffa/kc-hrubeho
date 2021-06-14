@@ -7,8 +7,8 @@ category: pro-dospele
 times:
   - time:
       day: monday
-      start: 20:00
-      end: 23:59
+      start: "20:00"
+      end: "23:59"
 ---
 
 Milé ženy,
@@ -22,8 +22,6 @@ Každé pondělí po 20. hodině bude pro vás otevřené naše centrum, kde bud
 Přineste si vlastní stroj, látky a veškerý materiál, který budete potřebovat.\
 Nejedná se o kurzy, ale o sdílený kreativní prostor, v jehož rámci si budeme moci v klidu tvořit a navíc se navzájem inspirovat.\
 Kdy? Každé pondělí 20:00 – ? Zdarma. Místo si můžete rezervovat na našem [facebooku](https://www.facebook.com/events/233708380858456/). 🙂
-
-
 
 Potřebujete s šitím dopomoc? Pro Vás je tu Špendlíkárna!
 
