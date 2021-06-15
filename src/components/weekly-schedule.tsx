@@ -25,13 +25,15 @@ interface Props {
 
 const LinkView: React.FC<Props> = (props: Props) => {
   console.log(props)
-  const itemsWithTime = props.items.flatMap(x => {
-    return x.times.map(time => ({
-      slug: x.slug,
-      title: x.title,
-      ...time,
-    }))
-  })
+  const itemsWithTime = props.items
+    .flatMap(x => {
+      return x.times.map(time => ({
+        slug: x.slug,
+        title: x.title,
+        ...time,
+      }))
+    })
+    .sort((a, b) => a.time.start.localeCompare(b.time.start))
   const days = [
     { id: "monday", name: "po" },
     { id: "tuesday", name: "út" },
@@ -42,30 +44,38 @@ const LinkView: React.FC<Props> = (props: Props) => {
     { id: "sunday", name: "ne" },
   ]
 
+  if (itemsWithTime.length === 0) {
+    return <div />
+  }
+
   return (
     <div className={styles.container}>
-      <div className={styles.container2}>
-        {days.map(x => {
-          return (
-            <div className={styles.day} key={x.id}>
-              <div className={styles.dayName}>{x.name}</div>
-              <div className={styles.eventContainer}>
-                {itemsWithTime
-                  .filter(item => item.time.day === x.id)
-                  .map(item => {
-                    return (
-                      <div>
-                        <Link to={item.slug}>
-                          <div>{item.time.start}</div>
-                          <div>{item.title}</div>
-                        </Link>
-                      </div>
-                    )
-                  })}
+      <div className={styles.innerContainer}>
+        <div>
+          {days.map(x => {
+            return (
+              <div className={styles.day} key={x.id}>
+                <div className={styles.dayName}>{x.name.toUpperCase()}</div>
+                <div className={styles.eventContainer}>
+                  {itemsWithTime
+                    .filter(item => item.time.day === x.id)
+                    .map(item => {
+                      return (
+                        <div className={styles.event}>
+                          <div className={styles.timeRange}>
+                            {item.time.start} - {item.time.end}
+                          </div>
+                          <Link to={item.slug} className={styles.eventTitle}>
+                            <div>{item.title}</div>
+                          </Link>
+                        </div>
+                      )
+                    })}
+                </div>
               </div>
-            </div>
-          )
-        })}
+            )
+          })}
+        </div>
       </div>
     </div>
   )

@@ -33,6 +33,33 @@ interface Data {
       html: string
     }
   }
+  krouzky: {
+    nodes: {
+      frontmatter: {
+        title: string
+        times?: {
+          time: {
+            day:
+              | "monday"
+              | "tuesday"
+              | "wednesday"
+              | "thursday"
+              | "friday"
+              | "saturday"
+              | "sunday"
+            start: string
+            end: string
+          }
+        }[]
+        category: string
+        excerpt: string
+        short: string
+      }
+      fields: {
+        slug: string
+      }
+    }[]
+  }
 }
 
 const Home: React.FC<PageProps<Data>> = ({ data }) => {

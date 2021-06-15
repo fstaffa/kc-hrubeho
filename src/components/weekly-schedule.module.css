@@ -6,7 +6,9 @@
   margin-bottom: 3em;
 }
 
-.container2 {
+.innerContainer {
+  max-width: 30em;
+  width: 88.889%;
 }
 
 .day {
@@ -16,13 +18,38 @@
   padding: 1em;
 }
 
+.day:nth-of-type(odd) {
+  background-color: var(--alternate-color);
+}
+
+.day:nth-of-type(even) {
+  background-color: var(--third-color);
+}
+
 .dayName {
-  width: 4em;
+  flex-shrink: 0;
+  width: 3em;
   font-size: x-large;
   font-weight: 700;
 }
 
 .eventContainer {
-  width: 50%;
-  max-width: 20em;
+}
+
+.event {
+  display: flex;
+  font-size: large;
+}
+
+.event:not(:first-of-type) {
+  margin-top: 1em;
+}
+
+.timeRange {
+  flex-shrink: 0;
+  width: 6em;
+}
+
+.eventTitle {
+  margin-left: 1em;
 }
