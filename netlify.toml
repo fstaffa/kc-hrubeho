@@ -4,3 +4,4 @@
     X-Frame-Options = "DENY"
     permissions-policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
     referrer-policy = "strict-origin-when-cross-origin"
+    Content-Security-Policy-Report-Only = "default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://d171b555561c34b1e5b25a5ee6e269bb.report-uri.com/r/d/csp/wizard"
