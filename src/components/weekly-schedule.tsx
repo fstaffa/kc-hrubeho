@@ -24,7 +24,6 @@ interface Props {
 }
 
 const LinkView: React.FC<Props> = (props: Props) => {
-  console.log(props)
   const itemsWithTime = props.items
     .flatMap(x => {
       return x.times.map(time => ({
