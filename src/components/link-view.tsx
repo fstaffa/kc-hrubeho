@@ -17,10 +17,9 @@ const LinkView: React.FC<Props> = (props: Props) => {
       {props.items.map(x => {
         return (
           <div className={styles.categoryItem} key={x.slug}>
-            <Link to={x.slug}>
+            <Link to={x.slug} className={styles.categoryItemContent}>
               <GatsbyImage image={x.image} alt="" className={styles.image} />
               <div className={styles.categoryTitle}>{x.title}</div>
-              <div>Přečíst více</div>
             </Link>
           </div>
         )

@@ -109,13 +109,15 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
         </div>
       </div>
 
-      <WeeklySchedule
-        items={data.krouzky.nodes.map(x => ({
-          slug: x.fields.slug,
-          title: x.frontmatter.title,
-          times: x.frontmatter.times ?? [],
-        }))}
-      />
+      <div className={styles.weeklyScheduleContainer}>
+        <WeeklySchedule
+          items={data.krouzky.nodes.map(x => ({
+            slug: x.fields.slug,
+            title: x.frontmatter.title,
+            times: x.frontmatter.times ?? [],
+          }))}
+        />
+      </div>
       <Contact />
       <LocationInfo />
     </div>
@@ -139,7 +141,7 @@ export const query = graphql`
           title
           image {
             childImageSharp {
-              gatsbyImageData(layout: FIXED, width: 80, height: 80)
+              gatsbyImageData(layout: FIXED, width: 120, height: 120)
             }
           }
         }
@@ -171,7 +173,7 @@ export const query = graphql`
           short
           image {
             childImageSharp {
-              gatsbyImageData(layout: FIXED, width: 80)
+              gatsbyImageData(layout: FIXED, width: 120)
             }
           }
         }

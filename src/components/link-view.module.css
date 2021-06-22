@@ -7,23 +7,21 @@
   justify-content: center;
 }
 
-.categoryImage {
-  width: 80px;
-  height: 80px;
-}
-
 .categoryTitle {
-  font-size: x-large;
+  font-size: large;
+  line-height: 1.5;
 }
 
 .categoryItem {
   width: 10em;
-  margin: 3em;
+  margin: 3em 3em 0em 3em;
+}
+
+.categoryItemContent {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
+  align-items: center;
   text-align: center;
 }
 
