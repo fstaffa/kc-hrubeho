@@ -85,7 +85,7 @@ const Home: React.FC<PageProps<Data>> = ({ data }) => {
     slug: x.fields.slug,
   }))
   return (
-    <div className={styles.pageContainer}>
+    <div>
       <Header />
       <HeroImage
         imageData={data.file.childImageSharp.gatsbyImageData}

@@ -10,7 +10,6 @@ interface Props {
 export default function HeroImage(props: Props) {
   return (
     <div className={styles.imageContainer}>
-      {props.overlay}
       <div className={styles.backgroundImageContainer}>
         <GatsbyImage
           image={props.imageData}
@@ -18,6 +17,7 @@ export default function HeroImage(props: Props) {
           className={styles.backgroundImage}
         />
       </div>
+      <div className={styles.imageOverlayContainer}>{props.overlay}</div>
     </div>
   )
 }

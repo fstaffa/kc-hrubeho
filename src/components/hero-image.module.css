@@ -1,21 +1,17 @@
-.pageContainer {
-  margin: auto;
-  max-width: 1200px;
-  display: grid;
-}
-
-.topContainer {
-  position: relative;
-}
-
 .imageContainer {
-  position: relative;
-  text-align: center;
-  width: 100vw;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
+.imageOverlayContainer {
+  grid-area: 1/1/2/2;
+  align-self: center;
 }
 
 .backgroundImageContainer {
   background-color: rgba(54, 54, 68, 0.6);
+  grid-area: 1/1/2/2;
 }
 
 .backgroundImage {

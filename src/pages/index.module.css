@@ -1,13 +1,4 @@
-.pageContainer {
-  margin: auto;
-  max-width: 1200px;
-  display: grid;
-}
-
 .imageOverlayContainer {
-  position: absolute;
-  width: 100vw;
-  top: 100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
