@@ -69,7 +69,7 @@ const Category: React.FC<PageProps<Data>> = ({ data }) => {
     </div>
   )
   return (
-    <div className={styles.pageContainer}>
+    <div>
       <Header />
       <HeroImage
         imageData={

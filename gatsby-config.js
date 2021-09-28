@@ -46,7 +46,14 @@ module.exports = {
       },
     },
     "gatsby-plugin-image",
-    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-plugin-sharp",
+      options: {
+        defaults: {
+          formats: [`auto`, `webp`, `avif`],
+        },
+      },
+    },
     "gatsby-transformer-sharp",
   ],
 }
