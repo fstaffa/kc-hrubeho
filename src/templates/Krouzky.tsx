@@ -79,7 +79,7 @@ export const puzzlePageQuery = graphql`
         excerpt
         image {
           childImageSharp {
-            gatsbyImageData(layout: FULL_WIDTH)
+            gatsbyImageData(layout: FULL_WIDTH, formats: [AUTO, WEBP, AVIF])
           }
         }
         times {

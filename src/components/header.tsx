@@ -14,9 +14,6 @@ export default function Header() {
           </Link>
         </li>
         <li>
-          <Link to="/akce">Akce</Link>
-        </li>
-        <li>
           <Link to="#team">Kontakt</Link>
         </li>
         <li>

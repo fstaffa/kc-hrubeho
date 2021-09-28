@@ -115,7 +115,7 @@ export const puzzlePageQuery = graphql`
         short
         image {
           childImageSharp {
-            gatsbyImageData(layout: FULL_WIDTH)
+            gatsbyImageData(layout: FULL_WIDTH, formats: [AUTO, WEBP, AVIF])
           }
         }
       }
@@ -142,7 +142,11 @@ export const puzzlePageQuery = graphql`
           short
           image {
             childImageSharp {
-              gatsbyImageData(layout: FIXED, width: 80)
+              gatsbyImageData(
+                layout: FIXED
+                width: 80
+                formats: [AUTO, WEBP, AVIF]
+              )
             }
           }
         }

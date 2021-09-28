@@ -130,7 +130,7 @@ export const query = graphql`
   query {
     file(name: { eq: "sketch" }, extension: { eq: "jpg" }) {
       childImageSharp {
-        gatsbyImageData(layout: FULL_WIDTH)
+        gatsbyImageData(layout: FULL_WIDTH, formats: [AUTO, WEBP, AVIF])
       }
     }
     categories: allMarkdownRemark(
@@ -141,7 +141,12 @@ export const query = graphql`
           title
           image {
             childImageSharp {
-              gatsbyImageData(layout: FIXED, width: 120, height: 120)
+              gatsbyImageData(
+                layout: FIXED
+                width: 120
+                height: 120
+                formats: [AUTO, WEBP, AVIF]
+              )
             }
           }
         }
@@ -173,7 +178,11 @@ export const query = graphql`
           short
           image {
             childImageSharp {
-              gatsbyImageData(layout: FIXED, width: 120)
+              gatsbyImageData(
+                layout: FIXED
+                width: 120
+                formats: [AUTO, WEBP, AVIF]
+              )
             }
           }
         }
