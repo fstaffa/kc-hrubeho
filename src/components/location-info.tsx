@@ -27,7 +27,9 @@ export default function LocationInfo(props: Props) {
           zoom={16}
           center={coordinates}
           mapContainerStyle={{ width: "100%", height: "360px" }}
-        />
+        >
+          <Marker position={coordinates} />
+        </GoogleMap>
       </LoadScript>
     </div>
   )
