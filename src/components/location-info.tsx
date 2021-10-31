@@ -1,30 +1,12 @@
 import React from "react"
 import PlaceIcon from "../assets/place.svg"
 import * as styles from "./location-info.module.css"
-import {
-  withScriptjs,
-  withGoogleMap,
-  GoogleMap,
-  Marker,
-} from "react-google-maps"
+import { LoadScript, GoogleMap, Marker } from "@react-google-maps/api"
 
 interface Props {}
 
 export default function LocationInfo(props: Props) {
-  const WrappedMap = withScriptjs(
-    withGoogleMap(() => {
-      const coordinates = { lat: 50.12875823745096, lng: 14.466307581741237 }
-      return (
-        <div>
-          {typeof window !== "undefined" && (
-            <GoogleMap defaultZoom={16} defaultCenter={coordinates}>
-              <Marker position={coordinates} />
-            </GoogleMap>
-          )}
-        </div>
-      )
-    })
-  )
+  const coordinates = { lat: 50.12875823745096, lng: 14.466307581741237 }
   return (
     <div id="map" className={styles.container}>
       <div>
@@ -40,12 +22,13 @@ export default function LocationInfo(props: Props) {
           </div>
         </div>
       </div>
-      <WrappedMap
-        googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8redeXVfkntVMfUWWGVvIrt1zjoccLUU&v=3.exp&libraries=geometry,drawing,places"
-        loadingElement={<div style={{ height: `100%` }} />}
-        containerElement={<div style={{ height: `360px` }} />}
-        mapElement={<div style={{ height: `100%` }} />}
-      />
+      <LoadScript googleMapsApiKey="AIzaSyD8redeXVfkntVMfUWWGVvIrt1zjoccLUU">
+        <GoogleMap
+          zoom={16}
+          center={coordinates}
+          mapContainerStyle={{ width: "100%", height: "360px" }}
+        />
+      </LoadScript>
     </div>
   )
 }
