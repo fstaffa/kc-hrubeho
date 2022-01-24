@@ -5,7 +5,6 @@ image: muffin.jpg
 type: category
 id: narozeninova-oslava
 ---
-
 Chcete Vašemu dítku dopřát krásnou oslavu narozenin?\
 Uspořádejte ji u nás.
 
@@ -20,3 +19,7 @@ Také je potřeba udělat alespoň základní úklid (umýt nádobí, zamést/vy
 Oslavy je možné realizovat PÁTKY 14:00-18:00.
 
 Napište nám na [kchrubeho@gmail.com](mailto:kchrubeho@gmail.com), případně se za námi zastavte přímo v centru, kde naplánujeme nezapomenutelný den pro Vaše dítě.
+
+
+
+*Oslavy aktuálně neprobíhají.*
