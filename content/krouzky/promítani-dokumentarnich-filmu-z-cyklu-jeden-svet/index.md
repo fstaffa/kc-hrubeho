@@ -5,7 +5,6 @@ image: camera.jpg
 type: krouzky
 category: promitani
 ---
-
 Promítání dokumentů na kvalitním plátně s kvalitním zvukem a občerstvením od našich babiček.
 
-Každou první středu v měsíci od 20:00.
+Promítání aktuálně neprobíhá.
