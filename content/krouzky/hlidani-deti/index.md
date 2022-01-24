@@ -7,25 +7,24 @@ category: pro-deti
 times:
   - time:
       day: tuesday
-      start: "08:00"
-      end: "14:00"
+      start: 08:00
+      end: 14:00
   - time:
       day: wednesday
-      start: "08:00"
-      end: "14:00"
+      start: 08:00
+      end: 14:00
   - time:
       day: thursday
-      start: "08:00"
-      end: "14:00"
+      start: 08:00
+      end: 14:00
   - time:
       day: friday
-      start: "08:00"
-      end: "14:00"
+      start: 08:00
+      end: 14:00
 ---
-
 ## Kdy?
 
-Každé **úterý, středa, čtvrtek a pátek od 8:00 do 14:00 hodin**.
+Každý všední den **od 8:00 do 14:00 hodin**.
 
 ## Kde?
 
