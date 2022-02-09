@@ -1,16 +1,10 @@
 ---
 title: Pro dospělé
-short: Cvičení i promítání. V KC Hrubého si na své přijdou i dospělí!
+short: Aktivity pro dospělé
 image: joga.jpg
 type: category
 id: pro-dospele
 ---
-
 ## Pro dospělé
 
-Pro dospělé nabízíme následující aktivity:
-
-- [Lekce jógy](krouzky/joga)
-- [Jógu pro onkologické pacienty](krouzky/joga-pro-onkologicke-pacienty)
-- [Zašívárnu a Špendlíkárnu](krouzky/zasivarna)
-- Nejrůznější komunitní akce
+O víkendu pro dospělé probíhají kurzy kreslení wwwprosvujusmev.cz.
