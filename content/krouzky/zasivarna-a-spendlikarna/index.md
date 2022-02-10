@@ -7,16 +7,15 @@ category: pro-dospele
 times:
   - time:
       day: monday
-      start: 20:00
-      end: 23:59
+      start: "20:00"
+      end: "23:59"
 ---
+
 Milé ženy,
 
 také byste ráda něco ušily, upletly, uháčkovaly…? Doma ale po vás stále něco chtějí děti, manžel, pes, kočka… Tak právě pro vás je tu
 
 ZAŠÍVÁRNA.
-
-
 
 Přineste si vlastní stroj, látky a veškerý materiál, který budete potřebovat.\
 Nejedná se o kurzy, ale o sdílený kreativní prostor, v jehož rámci si budeme moci v klidu tvořit a navíc se navzájem inspirovat.\
