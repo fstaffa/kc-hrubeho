@@ -7,7 +7,7 @@ category: joyful
 times:
   - time:
       day: tuesday
-      start: 18:30
+      start: "18:30"
       end: "23:59"
 ---
 

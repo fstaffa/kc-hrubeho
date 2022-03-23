@@ -7,13 +7,14 @@ category: pro-deti
 times:
   - time:
       day: wednesday
-      start: '"16:00"'
-      end: '"17:00"'
+      start: "16:00"
+      end: "17:00"
   - time:
       day: wednesday
-      start: '"17:15"'
-      end: '"18:15"'
+      start: "17:15"
+      end: "18:15"
 ---
+
 Přijďte s námi tvořit toto místo, vytvořit si společně strávený čas.
 
 Dílničky se konají pravidelně **každou středu** mezi 16:00-17:00 a 17:15-18:15
@@ -30,22 +31,20 @@ Vzdělávání je pro nás proces, který nikdy nekončí. Sami se neustále zdo
 
 Základní pravidla:
 
-* Necháme dítě pracovat, pomáháme jen, když nás vyzve, požádá, necháme jej i si aktivitu vybrat, jen když dlouho neví, nabídneme možnosti.
-* Učíme dítě začít aktivitu, provádět a následně dokončit (mnohdy musíme uklízet sami, ale nevadí, děti se od nás učí, ač to tak mnohdy na první pohled nevypadá).
-* Snažíme se pracovat v tichosti, neboucháme věcmi, zavíráme a odkládáme věci v tichosti, nerušíme ostatní.
-* Učíme děti respektu, nebereme si aktivity z rukou, počkáme, až druhý dopracuje a aktivitu uklidí a pak si ji vezmeme.
-* Spolupracujeme (pracujeme na jedné aktivitě) jen když obě strany souhlasí.
-* Učíme děti základním pravidlům slušného chování (pozdravení, rozloučení, žádání o něco "prosím", děkování, apod.).
+- Necháme dítě pracovat, pomáháme jen, když nás vyzve, požádá, necháme jej i si aktivitu vybrat, jen když dlouho neví, nabídneme možnosti.
+- Učíme dítě začít aktivitu, provádět a následně dokončit (mnohdy musíme uklízet sami, ale nevadí, děti se od nás učí, ač to tak mnohdy na první pohled nevypadá).
+- Snažíme se pracovat v tichosti, neboucháme věcmi, zavíráme a odkládáme věci v tichosti, nerušíme ostatní.
+- Učíme děti respektu, nebereme si aktivity z rukou, počkáme, až druhý dopracuje a aktivitu uklidí a pak si ji vezmeme.
+- Spolupracujeme (pracujeme na jedné aktivitě) jen když obě strany souhlasí.
+- Učíme děti základním pravidlům slušného chování (pozdravení, rozloučení, žádání o něco "prosím", děkování, apod.).
 
 Pomůžeme dítěti získat:
 
-* Samostatnost a soběstačnost
-* Schopnost postarat se samo o sebe
-* Kognitivní funkce a schopnost učit se
-* Jazykové dovednosti a slovní zásobu
-* Sociální a emocionální rozvoj
-* Jemnou a hrubou motoriku
-
-
+- Samostatnost a soběstačnost
+- Schopnost postarat se samo o sebe
+- Kognitivní funkce a schopnost učit se
+- Jazykové dovednosti a slovní zásobu
+- Sociální a emocionální rozvoj
+- Jemnou a hrubou motoriku
 
 Více informací na <http://www.agenturateja.cz/>.
