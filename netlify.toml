@@ -1,5 +1,5 @@
 [build.environment]
-GATSBY_CONCURRENT_DOWNLOAD = 16
+GATSBY_CONCURRENT_DOWNLOAD = "16"
 
 [[headers]]
   for = "/*"
