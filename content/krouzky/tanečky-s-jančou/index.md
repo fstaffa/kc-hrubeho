@@ -7,13 +7,14 @@ category: pro-deti
 times:
   - time:
       day: thursday
-      start: '"16:15"'
-      end: '"17:15"'
+      start: "16:15"
+      end: "17:15"
   - time:
       day: thursday
-      start: '"17:30"'
-      end: '"18:30"'
+      start: "17:30"
+      end: "18:30"
 ---
+
 Každý čtvrtek 16:15-17:15, děti cca 5 až 9 let (kapacita 6 dětí)
 
 Každý Čtvrtek 17.30-18:30, děti cca 2 až 4 roky (kapacita 6 dětí)
