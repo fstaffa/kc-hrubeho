@@ -14,7 +14,7 @@ module.exports = {
         headers: {
           "*/": [
             "permissions-policy: accelerometer = (), camera = (), geolocation = (), gyroscope = (), magnetometer = (), microphone = (), payment = (), usb = (), interest - cohort=()",
-            "content-security-policy-report-only: default-src 'self'; script-src: 'https://static.cloudflareinsights.com/ https://maps.googleapis.com'; font-src: 'https://fonts.googleapis.com/'",
+            "content-security-policy-report-only: default-src 'self'; script-src 'https://static.cloudflareinsights.com/ https://maps.googleapis.com'; font-src 'https://fonts.googleapis.com/'",
             "referrer-policy: strict-origin-when-cross-origin"
           ]
         }
