@@ -34,8 +34,8 @@
   },
   "devDependencies": {
     "gatsby-plugin-netlify": "^4.1.0",
-    "prettier": "^2.6.0",
-    "typescript": "^4.6.2"
+    "prettier": "^2.6.1",
+    "typescript": "^4.6.3"
   },
   "repository": {
     "type": "git",

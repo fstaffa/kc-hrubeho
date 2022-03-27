@@ -8,7 +8,18 @@ module.exports = {
   /* Your site config here */
   plugins: [
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-netlify`,
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        headers: {
+          "*/": [
+            "permissions-policy: accelerometer = (), camera = (), geolocation = (), gyroscope = (), magnetometer = (), microphone = (), payment = (), usb = (), interest - cohort=()",
+            "content-security-policy-report-only: default-src 'none'",
+            "referrer-policy: strict-origin-when-cross-origin"
+          ]
+        }
+      }
+    },
     `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-source-filesystem`,
