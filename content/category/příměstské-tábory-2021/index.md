@@ -1,34 +1,44 @@
 ---
-title: Příměstské tábory 2021
+title: Příměstské tábory 2022
 short: Příměstské tábory pro děti
-image: primestske-tabory-2021.jpg
+image: tábory-kc-hrubého-2022.jpg
 type: category
 id: primestske-tabory
 ---
+**Milí rodiče, z**náte naše PŘÍMĚSTSKÉ TÁBORY v Komunitním centru Hrubého?
 
-**Milí rodiče, také na léto 2021 plánujeme v KC Hrubého příměstské tábory pro děti!**
+Fungujeme už několik let a velká oblíbenost a výborné reference jsou naší zpětnou vazbou. :) 
 
+Přijďte je vyzkoušet - letos budou ještě více vymazlené se spoustou zábavy pro všechny děti... Ještě se pár místeček najde. :)
+
+Bereme děti od cca 2let i za přítomnosti rodičů a máme i skupinku starších kamarádů,sourozenců, parťáků. Můžete si vybrat jen jednotlivé dny v týdnech tématicky zaměřených.
+
+Více informací Vám rádi pošleme, ozvěte se nám na [terezak@agenturateja.cz](mailto:terezak@agenturateja.cz)
+
+\
 Na co se můžete těšit?
 
 Letošní léto bude opět plné zábavy, zážitků, prožitků, her, úsměvů a kamarádství tentokrát na témata blízká nám i dětem. Každý si u nás vybere a může, ale nemusí, se proměnit v daný týden v někoho jiného. Každý si odnese skvělé zážitky a dárečky. U nás se baví každý. Zvládneme i případná zdravotní znevýhodnění.
 
 Termíny:
 
-7.7.-9.7.
+4.7.-8.7.
 
-12.7.-16.7.
+11.7.-15.7.
 
-16.8.-20.8.
+15.8.-19.8.
 
-23.8.-27.8.
+22.8.-26.8.
 
-Platí se jako každý rok celodenní blok dle věkové skupiny. Vyzvednutí na domluvě. Ranní příchod  mezi 8-9hod. Zaplacení nevratné zálohy ve výši 400,-Kč/za účastníka do 1.3.2021.
+29.8.-2.9.
 
-Nabízené slevy:
 
-- Sleva sourozenecká 140,-Kč/za každého druhého a dalšího sourozence/za přihlášený blok.
-- Sleva kamarádská 100,-Kč/za účastníka/za přihlášený blok (aneb vezmi s sebou kamaráda/y). Nutné společné přihlášení a zaplacení nevratné zálohy za všechny účastníky.
-- Sleva 150,-Kč po zaplacení celé platby za přihlášený blok do 15.3.2021.
+
+Tábory jsou určeny pro děti od cca 1 roku do cca 10 let. 
+
+Tábory probíhají vždy 7:30-17:00 a cena činí 500 Kč/den. Sourozenecká a kamarádksá sleva možná. :)
+
+Vzhledem k respektování idnviduálních potřeb vše dětí si prosím stravu zajistěte vlastní, naše tety ji dětem ohřejí.
 
 Kapacita omezena – individuální přístup zajištěn.
 
