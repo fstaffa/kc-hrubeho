@@ -6,7 +6,7 @@ image: pro-deti.jpg
 type: category
 id: pro-deti
 ---
-HLÍDÁNÍ DĚTÍ
+# HLÍDÁNÍ DĚTÍ
 
 * ## Kdy?
 
@@ -42,7 +42,7 @@ HLÍDÁNÍ DĚTÍ
 
 
 
-TANEČKY S JANČOU 
+# TANEČKY S JANČOU 
 
 * Každý čtvrtek 16:15-17:15, děti cca 5 až 9 let (kapacita 6 dětí)
 
@@ -54,7 +54,9 @@ TANEČKY S JANČOU
 
   Více informací na <http://www.agenturateja.cz/>.
 
-MONTESSORI DÍLNIČKA
+
+
+# MONTESSORI DÍLNIČKA
 
 * Přijďte s námi tvořit toto místo, vytvořit si společně strávený čas.
 
