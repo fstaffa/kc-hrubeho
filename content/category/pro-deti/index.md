@@ -40,9 +40,7 @@ id: pro-deti
 
   zastoupeným Bc. Terezou Kohoutovou, DiS.
 
-
-
-# TANEČKY S JANČOU 
+# TANEČKY S JANČOU
 
 * Každý čtvrtek 16:15-17:15, děti cca 5 až 9 let (kapacita 6 dětí)
 
@@ -53,8 +51,6 @@ id: pro-deti
   Náplní kurzu je zábavnou a hravou formou podporovat přirozené pohybové a taneční schopnosti dětí. Skrze tanec se děti učí poznávat své tělo, pracovat s ním, koordinovat a ovládat své pohyby tak, že se zlepšuje pohyblivost kloubů a je posilováno svalstvo celého těla, vnímat hudbu a rytmus. Taneční, pohybová a rytmická průprava podpoří jejich zdravý motorický i osobnostní vývoj. Hodiny jsou vedeny a metodicky zpracovány kvalifikovanou lektorkou s vysokoškolským tanečním a pedagogickým vzděláním (absolventka taneční konzervatoře - učitelka tance, umělec interpret, umělec choreograf s praktickou i teoretickou znalostí ve výchovně- vzdělávacím procesu). Děti si postupně vyzkouší a osvojí základy moderního tance, baletu, lidového tance, scénického tance, polky, streetdance, výrazového tance, jazzdance.
 
   Více informací na <http://www.agenturateja.cz/>.
-
-
 
 # MONTESSORI DÍLNIČKA
 
