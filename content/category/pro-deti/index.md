@@ -6,7 +6,7 @@ image: pro-deti.jpg
 type: category
 id: pro-deti
 ---
-# HLÍDÁNÍ DĚTÍ
+# DĚTSKÝ KLUB
 
 * ## Kdy?
 
@@ -22,7 +22,7 @@ id: pro-deti
 
   ## Za kolik?
 
-  69 Kč/hod.
+  85 Kč/hod. (75 Kč/hod. sourozenci)
 
   ## S kým?
 
