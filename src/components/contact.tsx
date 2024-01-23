@@ -7,13 +7,9 @@ export default function Contact() {
   return (
     <div id="team" className={styles.contacts}>
       <div>
-        <h2>Bc. Tereza Kohoutová, DiS.</h2>
-        <p style={{ maxWidth: "25em" }}>
-          Hlavní šéfka komunitního centra. Odpoví vám na všechno, co vás zajímá!
-        </p>
+        <h2>Kontakt</h2>
         <div className={styles.contactDetails}>
           <ul>
-            <Phone number="+420 777 815 896" />
             <Email emailAddress="kchrubeho@gmail.com" />
           </ul>
         </div>
