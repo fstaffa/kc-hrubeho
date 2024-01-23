@@ -46,7 +46,7 @@ Stolky a židle budou v testovací fázi k dispozici po-čt do 18:00, za čas 
 
 Projekt probíhá díky Institutu plánování a rozvoje hl. m. Prahy, který mobiliář zdarma zapůjčil. Umístění v této lokalitě je iniciativou spolku Krásné Kobylisy, z.s. a Komunitního centra Hrubého.
 
-V případě otázek či podnětů se obracejte na správce mobiliáře, kterým je v této lokalitě vedoucí KC Hrubého Bc. Tereza Kohoutová, DiS, tel.: 777 815 896, email.: kchrubeho@gmail.com.
+V případě otázek či podnětů se obracejte na správce mobiliáře, kterým je v této lokalitě vedoucí KC Hrubého na email.: kchrubeho@gmail.com.
 
 **Zveme vás na slavnostní otevření, které se uskuteční v pondělí 21.5. v 17:00 hodin na travnaté ploše před Komunitním centrem Hrubého.**
 
